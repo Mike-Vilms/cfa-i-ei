@@ -5,9 +5,6 @@
 - **Price return index**, also known as a price index, reflects only the prices of the constituent securities within the index
 - **A total return index**, in contrast, reflects not only the prices of the constituent securities but also the reinvestment of all income received since inception
 ---
-![image](https://user-images.githubusercontent.com/85560091/142883126-81bc2648-ced8-432d-b9b3-ae1743648f15.png)
+![image](https://user-images.githubusercontent.com/85560091/142883835-7299c30c-2bd8-434e-8932-fb8b1c124a31.png)
 ---
-![image](https://user-images.githubusercontent.com/85560091/142883422-b32f4b6a-d4b6-4aa4-ba39-583c4cb2659f.png)
----
-![image](https://user-images.githubusercontent.com/85560091/142883548-0b74d1d8-ec2f-4af6-bc25-83837de17e97.png)
----
+
