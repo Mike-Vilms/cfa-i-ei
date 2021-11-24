@@ -20,4 +20,8 @@
     - Market float is the number of shares of the constituent security that are available to the investing public
   - Fundamental weighting: uses measures of a company’s size that are independent of its security price to determine the weight on each constituent security. These measures include book value, cash flow, revenues, earnings, dividends, and number of employees.
 - **Rebalancing and Reconstitution**
-
+  - Rebalancing refers to adjusting the weights of the constituent securities in the index.
+  - Index provider rebalances the index by adjusting the weights of the constituent securities on a regularly scheduled basis (rebalancing dates)—usually quarterly
+  - Price-weighted indexes are not rebalanced because the weight of each constituent security is determined by its price
+  - For market-capitalization-weighted indexes, rebalancing is less of a concern because the indexes largely rebalance themselves. Market-capitalization weights are only adjusted to reflect mergers, acquisitions, liquidations, and other corporate actions between rebalancing dates
+  - Reconstitution is the process of changing the constituent securities in an index
