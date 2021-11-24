@@ -20,4 +20,4 @@
     - Market float is the number of shares of the constituent security that are available to the investing public
   - Fundamental weighting: uses measures of a company’s size that are independent of its security price to determine the weight on each constituent security. These measures include book value, cash flow, revenues, earnings, dividends, and number of employees.
 - **Rebalancing and Reconstitution**
-  -  
+
