@@ -17,6 +17,6 @@
 ---
 #### Security Market Indexes
 - **[Calculation of Index Value and Returns](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Calculation-of-Index-Value-and-Returns.md)**
-- **[Index Construction and Management](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Calculation-of-Index-Value-and-Returns.md)**
+- **[Index Construction and Management](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Index-Construction-and-Management.md)**
 - **[Uses of Market Indexes](#1123)***
 ---
