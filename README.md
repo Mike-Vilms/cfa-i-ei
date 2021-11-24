@@ -1,5 +1,6 @@
 # cfi-i-ei
 
+#### Market Organization and Structure
 - Classification of assets:
   - Securities
     - Bonds
@@ -17,4 +18,5 @@
 #### Security Market Indexes
 - **[Calculation of Index Value and Returns](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Calculation-of-Index-Value-and-Returns.md)**
 - **[Index Construction and Management](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Calculation-of-Index-Value-and-Returns.md)**
+- **[Uses of Market Indexes](#1123)***
 ---
