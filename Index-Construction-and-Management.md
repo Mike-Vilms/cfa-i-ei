@@ -24,4 +24,8 @@
   - Index provider rebalances the index by adjusting the weights of the constituent securities on a regularly scheduled basis (rebalancing dates)—usually quarterly
   - Price-weighted indexes are not rebalanced because the weight of each constituent security is determined by its price
   - For market-capitalization-weighted indexes, rebalancing is less of a concern because the indexes largely rebalance themselves. Market-capitalization weights are only adjusted to reflect mergers, acquisitions, liquidations, and other corporate actions between rebalancing dates
-  - Reconstitution is the process of changing the constituent securities in an index
+  - Reconstitution is the process of changing the constituent securities in an index: constituent securities that no longer meet the criteria are replaced with securities 
+that do meet the criteria
+  - Reconstitution is part of the rebalancing cycle
+  - When one security is removed and another is added, the **index provider has to change the weights of the other securities** in order to maintain the market-capitalization weighting of the index
+
