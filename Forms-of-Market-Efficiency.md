@@ -27,4 +27,10 @@
   - Securities markets are weak-form efficient, and therefore, investors cannot earn abnormal returns by trading on the basis of past trends in price
   - Securities markets are semi-strong efficient, and therefore, analysts who collect and analyze information must consider whether that information is already reflected in security prices and how any new information affects a security’s value
   - Securities markets are not strong-form efficient because securities laws are intended to prevent exploitation of private information
-- 
+- **Fundamental analysis** is the examination of publicly available information and the formulation of forecasts to estimate the intrinsic value of assets
+  - Buy and sell decisions depend on whether the current market price is less than or greater than the estimated intrinsic value
+- **Technical analysis.** Investors using technical analysis attempt to profit by looking at patterns of prices and trading volume. Although some price patterns persist, exploiting these patterns may be too costly and, hence, would not produce abnormal returns
+- **Portfolio Management.**
+  - If securities markets are weak-form and semi-strong-form efficient, the implication is that active trading, whether attempting to exploit price patterns or public information, is not likely to generate abnormal returns
+  - In other words, **portfolio managers cannot beat the market on a consistent basis**, so therefore, passive portfolio management should outperform active portfolio management
+  - So, what good are portfolio managers? The role of a portfolio manager is not necessarily to beat the market but, rather, to establish and manage a portfolio consistent with the portfolio’s objectives, with appropriate diversification and asset allocation, while taking into consideration the risk preferences and tax situation of the investor
