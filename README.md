@@ -21,7 +21,7 @@
 - **[Uses of Market Indexes](#1123)**
 ---
 #### Market Efficiency
-- **[The Concept of Market Efficiency](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Behavioral-Finance.md)**
+- **[The Concept of Market Efficiency](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/The-Concept-of-Market-Efficiency.md)**
 - **[Forms of Market Efficiency](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Forms-of-Market-Efficiency.md)**
 - **[Market Pricing Anomalies](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Market-Pricing-Anomalies.md)**
 - **[Behavioral Finance](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Behavioral-Finance.md)**
