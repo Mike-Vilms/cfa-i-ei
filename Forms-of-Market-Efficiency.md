@@ -13,5 +13,13 @@
 #### Semi-Strong Form
 - In a **semi-strong-form efficient market**, prices reflect all publicly known and available information
 - **Publicly available information** includes financial statement data (such as earnings, dividends, corporate investments, changes in management, etc.) and financial market data (such as closing prices, shares traded, etc.)
+- In a semi-strong market, efforts to analyze publicly available information are futile
+  - That is, analyzing earnings announcements of companies to identify underpriced or overpriced securities is pointless because the prices of these securities already reflect all publicly available information
+- The results of most research are consistent with the view that developed securities markets might be semi-strong efficient. But some evidence suggests that the markets in developing countries may not be semi-strong efficient
 
 #### Strong Form
+- In a **strong-form efficient market**, security prices fully reflect both public and private information
+- In the case of a strong-form efficient market, insiders would not be able to earn abnormal returns from trading on the basis of private information
+- However, this is not likely because of the strong prohibitions against insider trading that are found in most countries
+
+#### Implications of the Efficient Market Hypothesis
