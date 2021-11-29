@@ -23,3 +23,8 @@
 - However, this is not likely because of the strong prohibitions against insider trading that are found in most countries
 
 #### Implications of the Efficient Market Hypothesis
+- Several implications can be drawn from the evidence on efficient markets for developed markets:
+  - Securities markets are weak-form efficient, and therefore, investors cannot earn abnormal returns by trading on the basis of past trends in price
+  - Securities markets are semi-strong efficient, and therefore, analysts who collect and analyze information must consider whether that information is already reflected in security prices and how any new information affects a security’s value
+  - Securities markets are not strong-form efficient because securities laws are intended to prevent exploitation of private information
+- 
