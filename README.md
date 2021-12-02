@@ -26,3 +26,7 @@
 - **[Market Pricing Anomalies - TODO](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Market-Pricing-Anomalies.md)**
 - **[Behavioral Finance](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Behavioral-Finance.md)**
 ---
+#### Overview of Equity Securities
+- [Common Stock vs Preferred Stock](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Common-Stock-vs-Preferred-Stock.md)
+
+---
