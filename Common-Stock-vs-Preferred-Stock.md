@@ -27,4 +27,13 @@ limits the potential loss for investors
 - Similar to the interest payments on debt securities, the dividends on preference shares are fixed and are generally higher than the dividends on common shares
 - However, unlike interest payments, **preference dividends are not contractual obligations of the company**
 - Similar to common shares, preference shares can be perpetual (i.e., no fixed maturity date), can pay dividends indefinitely, and can be callable or putable
-
+- Dividends on preference shares can be 
+  - Сumulative,
+  - Non-cumulative,
+  - Participating,
+  - Non-participating, 
+  - Or some combination thereof (i.e., cumulative participating, cumulative non-participating, non-cumulative participating, non-cumulative non-participating)
+- Dividends on **cumulative preference shares** accrue so that if the company decides not to pay a dividend in one or more periods, the unpaid dividends accrue and must be paid in full before dividends on common shares can be paid
+- In contrast, **non-cumulative preference shares** have no such provision
+- However, the company is still not permitted to pay any dividends to common shareholders in the current period unless preferred dividends have been paid first
+- 
