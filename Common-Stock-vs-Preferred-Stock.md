@@ -36,4 +36,9 @@ limits the potential loss for investors
 - Dividends on **cumulative preference shares** accrue so that if the company decides not to pay a dividend in one or more periods, the unpaid dividends accrue and must be paid in full before dividends on common shares can be paid
 - In contrast, **non-cumulative preference shares** have no such provision
 - However, the company is still not permitted to pay any dividends to common shareholders in the current period unless preferred dividends have been paid first
-- 
+- **Participating preference shares** entitle the shareholders to receive the standard preferred dividend plus the opportunity to receive an additional dividend if the company’s profits exceed a pre-specified level. 
+- In addition, participating preference shares can also contain provisions that entitle shareholders to an additional distribution of the company’s assets upon liquidation, above the par (or face) value of the preference shares
+- Preference shares can also be **convertible**. Convertible preference shares entitle shareholders to convert their shares into a specified number of common shares
+  - They allow investors to benefit from a rise in the price of the common shares through the conversion option
+  - Their price is less volatile than the underlying common shares because the dividend payments are known and more stable
+  - As a result, the use of convertible preference shares is a popular financing option in venture capital and private equity transactions in which the issuing companies are considered to be of higher risk and when it may be years before the issuing company “goes public”
