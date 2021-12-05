@@ -12,7 +12,14 @@ and can either cast all 400 votes in favor of a single candidate or spread them 
 the candidates in any proportion. In contrast, under statutory voting, a shareholder 
 would be able to cast only a maximum of 100 votes for each candidate.  
 - Common shares may also be **callable or putable**. 
-- Callable common shares (also known as redeemable common shares) give the issuing company the option (or right), but not the obligation, to buy back shares from investors at a call price that is specified when the shares are originally issued.
+- **Callable common shares(( (also known as redeemable common shares) give the issuing company the option (or right), but not the obligation, to buy back shares from investors at a call price that is specified when the shares are originally issued.
   - It is most common for companies to call (or redeem) their common shares when the market price is above the pre-specified call price
   - The company benefits because it can buy back its shares below the current market price and later resell them at a higher market price, and it can also reduce dividend payments to preserve capital, if required
   - Investors benefit because they receive a guaranteed return when their shares are called
+- **Putable common shares** give investors the option or right to sell their shares (i.e., “put” them) back to the issuing company at a price that is specified when the shares are originally issued
+- Investors will generally sell their shares back to the issuing company when the market price is **below the pre-specified put price**. Thus, the put option feature 
+limits the potential loss for investors
+- From the issuing company’s perspective, the put option facilitates raising capital because the shares are more appealing to investors
+
+#### Preferred Stock
+
