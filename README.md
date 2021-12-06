@@ -28,5 +28,5 @@
 ---
 #### Overview of Equity Securities
 - **[Common Stock vs Preferred Stock](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Common-Stock-vs-Preferred-Stock.md)**
-
+- **[Private Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Private-Equity-Securities.md)**
 ---
