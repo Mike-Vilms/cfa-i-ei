@@ -30,4 +30,5 @@
 - **[Common Stock vs Preferred Stock](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Common-Stock-vs-Preferred-Stock.md)**
 - **[Private Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Private-Equity-Securities.md)**
 - **[Non-domestic Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Non-domestic-Equity-Securities.md)**
+- **[Risk and Return Characteristics of Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Risk-and-Return-Characteristics-of-Equity-Securities.md)**
 ---
