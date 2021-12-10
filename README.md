@@ -1,18 +1,8 @@
 # cfi-i-ei
 
 #### Market Organization and Structure
-- Classification of assets:
-  - Securities
-    - Bonds
-    - Notes
-    - Commercial Papers
-    - Mortgages
-    - Common Stocks
-    - Preferred Stocks
-    - Warrants
-    - Mutual Fund Shares
-    - Unit Trusts
-    - Depository Reciepts  
+-
+-
 
 ---
 #### Security Market Indexes
@@ -30,4 +20,8 @@
 - **[Common Stock vs Preferred Stock](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Common-Stock-vs-Preferred-Stock.md)**
 - **[Private Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Private-Equity-Securities.md)**
 - **[Non-domestic Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Non-domestic-Equity-Securities.md)**
+- **[Return on Equity]()**
 ---
+#### Industry and Company Analysis
+---
+#### Equity Valuation
