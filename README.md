@@ -20,7 +20,8 @@
 - **[Common Stock vs Preferred Stock](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Common-Stock-vs-Preferred-Stock.md)**
 - **[Private Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Private-Equity-Securities.md)**
 - **[Non-domestic Equity Securities](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Non-domestic-Equity-Securities.md)**
-- **[Return on Equity]()**
+- **[Return on Equity](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Return-on-Equity.md)**
+- **[Cost of Equity](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Cost-of-Equity.md)**
 ---
 #### Industry and Company Analysis
 ---
