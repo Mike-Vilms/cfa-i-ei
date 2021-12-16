@@ -24,5 +24,7 @@
 - **[Cost of Equity](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Cost-of-Equity.md)**
 ---
 #### Industry and Company Analysis
+- **[Industry Classification Systems](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Industry-Classification-Systems.md)**
+- 
 ---
 #### Equity Valuation
