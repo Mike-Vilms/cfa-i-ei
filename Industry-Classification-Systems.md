@@ -11,3 +11,7 @@
 - Technology: companies involved in the manufacture or sale of computers, software, semiconductors, and communications equipment; other business activities that frequently fall into this category are electronic entertainment, internet services, and technology consulting and services.
 - Telecommunications: companies that provide fixed-line and wireless communication services; some vendors prefer to combine telecommunication and utility companies together into a single “utilities” category.
 - Utilities: electric, gas, and water utilities; telecommunication companies are sometimes included in this category.
+
+#### GICS
+- GICS was jointly developed by Standard & Poor’s and MSCI Barra, two of the largest providers of global equity indexes, in 1999. As the name implies, GICS was designed to facilitate global comparisons of industries, and it classifies companies in both developed and developing economies
+- https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
