@@ -25,6 +25,6 @@
 ---
 #### Industry and Company Analysis
 - **[Industry Classification Systems](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Industry-Classification-Systems.md)**
-- 
+- **[Constructing Peer Group](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Constructing-Peer-Group.md)**
 ---
 #### Equity Valuation
