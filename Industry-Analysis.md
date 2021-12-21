@@ -20,3 +20,5 @@
   - If Airbus charges too much for an A320, an airline can buy a Boeing 737.14 If BMW’s price for a four-door luxury sedan rises too high, customers can switch to a Mercedes or other luxury brand with similar features
   - Contrast these industries with asset management, one of a handful of industries that is both fragmented and characterized by strong pricing power. Despite the well documented impact of fees on future investment returns, the vast majority of asset management customers **do not make decisions on the basis of price**. Instead, asset management customers focus on historical returns, which allow this highly fragmented industry to maintain strong pricing power.
 
+#### External Influences on Industry Growth, Profitability, and Risk
+- 
