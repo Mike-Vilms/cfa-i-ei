@@ -29,3 +29,4 @@
 - Technological Influences
 - Demographic Influences
 - Governmental Influences
+- Social Influences
