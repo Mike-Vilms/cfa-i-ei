@@ -21,4 +21,11 @@
   - Contrast these industries with asset management, one of a handful of industries that is both fragmented and characterized by strong pricing power. Despite the well documented impact of fees on future investment returns, the vast majority of asset management customers **do not make decisions on the basis of price**. Instead, asset management customers focus on historical returns, which allow this highly fragmented industry to maintain strong pricing power.
 
 #### External Influences on Industry Growth, Profitability, and Risk
-- 
+-  Macroeconomic Influences
+  - GDP
+  - Interest Rates
+  - Availability of Credit
+  - Inflation
+- Technological Influences
+- Demographic Influences
+- Governmental Influences
