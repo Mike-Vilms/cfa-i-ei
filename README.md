@@ -30,3 +30,9 @@
 - **[Company Analysis](https://github.com/Mike-Vilms/cfi-i-ei/blob/main/Company-Analysis.md)**
 ---
 #### Equity Valuation
+Three major categories of equity valuation models:
+- **Present Value Models (Discounted Cash Flow Models)**
+  - **Dividend Discount Models** - cash expected to be distributed to shareholders
+  - **Free-Cash-Flow-to-Equity Models** - cash flows available to be distributed to shareholders after meeting capital expenditure and working capital needs
+- **Multiplier Models (Market Multiple Models)**
+- **Asset-based Valuation Models**
